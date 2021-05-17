@@ -1,4 +1,4 @@
-## Hi there! I'm Tim Kang 👋
+## Hi there! I'm Timothy Kang 👋
 I'm a software engineer in pursuit of this beautiful discipline in which creativity and pragmatism harmonize to empower human progress and prosperity.
 - 🙋‍♂️ Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
 - 📍 Based in NYC but open to opportunties within the US 
