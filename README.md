@@ -1,8 +1,8 @@
-### Hi there! I'm Tim Kang 👋
-📍 Based in NYC 
-🙋‍♂️ Open to opportunities
-🏢 Former management level CPA with 8+ years of public accounting and Fortune 500 experience (audit and transactions advisory)
-💬 Happy to connect via:
+## Hi there! I'm Tim Kang 👋
+-📍 Based in NYC 
+-🙋‍♂️ Open to opportunities
+-🏢 Former management level CPA with 8+ years of public accounting and Fortune 500 experience (audit and transactions advisory)
+-💬 Happy to connect via:
 [![LinkedIn]
 [![GitHub]
 [![Gmail]
