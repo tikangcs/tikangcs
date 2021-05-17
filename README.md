@@ -1,6 +1,6 @@
 ## Hi there! I'm Tim Kang 👋
-Full stack software engineer, formerly a management level CPA with a mix of public accounting and Fortune 500 experience. 
-- 🙋‍♂️ Open to opportunities
+Software engineer in pursuit of this beautiful discipline in which creativity and pragmatism harmonize to empower progress and prosperity
+- 🙋‍♂️ Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
 - 📍 Based in NYC but open to opportunties within the US 
 - 💬 Let's connect via:
 [![LinkedIn]
