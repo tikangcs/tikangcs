@@ -1,10 +1,9 @@
 ## Hi there! I'm Tim Kang 👋
-- 📍 Based in NYC 
+Full stack software engineer, formerly a management level CPA with a mix of public accounting and Fortune 500 experience. 
 - 🙋‍♂️ Open to opportunities
-- 🏢 Former management level CPA with 8+ years of public accounting and Fortune 500 experience (audit and transactions advisory)
-- 💬 Happy to connect via:
+- 📍 Based in NYC but open to opportunties within the US 
+- 💬 Let's connect via:
 [![LinkedIn]
-[![GitHub]
 [![Gmail]
 
 ### Technologies & Tools
