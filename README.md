@@ -1,5 +1,5 @@
 ## Hi there! I'm Timothy Kang 👋
-I'm a software engineer in pursuit of this beautiful discipline in which creativity and pragmatism harmonize to empower human progress and prosperity.
+I'm a software engineer in pursuit of this beautiful, harmonious discipline in which creativity and pragmatism collide to empower meaningful human progress.
 - 🙋‍♂️ Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
 - 📍 Based in NYC but open to opportunties within the US 
 - 💬 Let's connect via:
