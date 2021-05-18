@@ -1,8 +1,8 @@
 ## Hi there! I'm Timothy Kang 👋
-I'm a software engineer in pursuit of this beautiful discipline in which creativity and pragmatism collide in amazingly consequential ways.
-- 🙋‍♂️ Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
-- 📍 Based in NYC but open to outside opportunties
-- 💬 Let's connect:
+I'm a software engineer in pursuit of this beautiful discipline in which creativity and pragmatism collide in amazing, consequential ways.
+- 🙋‍♂️  Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
+- 📍  Based in NYC but open to outside opportunties
+- 💬  Let's connect:
 ![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)
 
