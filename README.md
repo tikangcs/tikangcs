@@ -3,8 +3,8 @@ I'm a software engineer in pursuit of this beautiful discipline in which creativ
 - 🙋‍♂️  Former management level CPA with a mix of Big 4 public accounting and Fortune 500 experiences
 - 📍  Based in NYC but open to outside opportunties
 - 💬  Let's connect:
-![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/timothy-j-kang/)
+[![Gmail](https://img.shields.io/badge/Gmail%20-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tikang.cs@gmail.com)
 
 ## Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E)
