@@ -10,6 +10,8 @@ Full stack software engineer in pursuit of this beautiful discipline in which cr
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux%20-%23593d88.svg?&style=flat-square&logo=redux&logoColor=white)
+![Sass](https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white)
+![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)
 
 ![Node](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
